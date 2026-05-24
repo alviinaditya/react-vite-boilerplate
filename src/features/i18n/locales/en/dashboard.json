@@ -1,0 +1,10 @@
+{
+  "badge": "Production-ready starter",
+  "description": "A scalable React, TypeScript, Vite foundation with routing, server state, forms, charts, theme, and localization wired in from day one.",
+  "stats": {
+    "components": "UI components",
+    "coverage": "Quality gates",
+    "routes": "Typed routes"
+  },
+  "title": "Feature-based boilerplate for serious products"
+}

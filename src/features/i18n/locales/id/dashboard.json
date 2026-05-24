@@ -1,0 +1,10 @@
+{
+  "badge": "Starter siap produksi",
+  "description": "Fondasi React, TypeScript, dan Vite yang scalable dengan routing, server state, form, chart, theme, dan lokalisasi sejak awal.",
+  "stats": {
+    "components": "Komponen UI",
+    "coverage": "Quality gates",
+    "routes": "Route bertipe"
+  },
+  "title": "Boilerplate feature-based untuk produk serius"
+}

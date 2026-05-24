@@ -1,0 +1,15 @@
+{
+  "actions": {
+    "language": "Language",
+    "theme": "Theme"
+  },
+  "language": {
+    "en": "English",
+    "id": "Indonesia"
+  },
+  "theme": {
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System"
+  }
+}
